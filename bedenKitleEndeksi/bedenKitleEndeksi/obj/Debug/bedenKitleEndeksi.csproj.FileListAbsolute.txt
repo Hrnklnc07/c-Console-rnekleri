@@ -1,0 +1,15 @@
+c:\users\harun\documents\visual studio 2013\Projects\bedenKitleEndeksi\bedenKitleEndeksi\bin\Debug\bedenKitleEndeksi.exe.config
+c:\users\harun\documents\visual studio 2013\Projects\bedenKitleEndeksi\bedenKitleEndeksi\bin\Debug\bedenKitleEndeksi.exe
+c:\users\harun\documents\visual studio 2013\Projects\bedenKitleEndeksi\bedenKitleEndeksi\bin\Debug\bedenKitleEndeksi.pdb
+c:\users\harun\documents\visual studio 2013\Projects\bedenKitleEndeksi\bedenKitleEndeksi\obj\Debug\bedenKitleEndeksi.csprojResolveAssemblyReference.cache
+c:\users\harun\documents\visual studio 2013\Projects\bedenKitleEndeksi\bedenKitleEndeksi\obj\Debug\bedenKitleEndeksi.exe
+c:\users\harun\documents\visual studio 2013\Projects\bedenKitleEndeksi\bedenKitleEndeksi\obj\Debug\bedenKitleEndeksi.pdb
+C:\Users\harun\Documents\Visual Studio 2013\Projects\Console App\bedenKitleEndeksi\bedenKitleEndeksi\bin\Debug\bedenKitleEndeksi.exe.config
+C:\Users\harun\Documents\Visual Studio 2013\Projects\Console App\bedenKitleEndeksi\bedenKitleEndeksi\obj\Debug\bedenKitleEndeksi.exe
+C:\Users\harun\Documents\Visual Studio 2013\Projects\Console App\bedenKitleEndeksi\bedenKitleEndeksi\obj\Debug\bedenKitleEndeksi.pdb
+C:\Users\KILINÇ\Documents\Visual Studio 2015\Projects\Console App\bedenKitleEndeksi\bedenKitleEndeksi\bin\Debug\bedenKitleEndeksi.exe.config
+C:\Users\KILINÇ\Documents\Visual Studio 2015\Projects\Console App\bedenKitleEndeksi\bedenKitleEndeksi\obj\Debug\bedenKitleEndeksi.exe
+C:\Users\KILINÇ\Documents\Visual Studio 2015\Projects\Console App\bedenKitleEndeksi\bedenKitleEndeksi\obj\Debug\bedenKitleEndeksi.pdb
+C:\Users\KILINÇ\Documents\Visual Studio 2015\Projects\Console App\bedenKitleEndeksi\bedenKitleEndeksi\bin\Debug\bedenKitleEndeksi.exe
+C:\Users\KILINÇ\Documents\Visual Studio 2015\Projects\Console App\bedenKitleEndeksi\bedenKitleEndeksi\bin\Debug\bedenKitleEndeksi.pdb
+C:\Users\KILINÇ\Documents\Visual Studio 2015\Projects\Console App\bedenKitleEndeksi\bedenKitleEndeksi\obj\Debug\bedenKitleEndeksi.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+c:\users\harun\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\harun\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\harun\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\harun\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\harun\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\harun\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\KILINÇ\Documents\Visual Studio 2015\Projects\Console App\faktoriyel hesaplama\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\KILINÇ\Documents\Visual Studio 2015\Projects\Console App\faktoriyel hesaplama\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\KILINÇ\Documents\Visual Studio 2015\Projects\Console App\faktoriyel hesaplama\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\KILINÇ\Documents\Visual Studio 2015\Projects\Console App\faktoriyel hesaplama\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\KILINÇ\Documents\Visual Studio 2015\Projects\Console App\faktoriyel hesaplama\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\KILINÇ\Documents\Visual Studio 2015\Projects\Console App\faktoriyel hesaplama\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

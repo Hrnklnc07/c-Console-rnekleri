@@ -1,0 +1,6 @@
+c:\users\harun\documents\visual studio 2013\Projects\girilen sayının bölenleri\girilen sayının bölenleri\bin\Debug\girilen sayının bölenleri.exe.config
+c:\users\harun\documents\visual studio 2013\Projects\girilen sayının bölenleri\girilen sayının bölenleri\bin\Debug\girilen sayının bölenleri.exe
+c:\users\harun\documents\visual studio 2013\Projects\girilen sayının bölenleri\girilen sayının bölenleri\bin\Debug\girilen sayının bölenleri.pdb
+c:\users\harun\documents\visual studio 2013\Projects\girilen sayının bölenleri\girilen sayının bölenleri\obj\Debug\girilen sayının bölenleri.csprojResolveAssemblyReference.cache
+c:\users\harun\documents\visual studio 2013\Projects\girilen sayının bölenleri\girilen sayının bölenleri\obj\Debug\girilen sayının bölenleri.exe
+c:\users\harun\documents\visual studio 2013\Projects\girilen sayının bölenleri\girilen sayının bölenleri\obj\Debug\girilen sayının bölenleri.pdb

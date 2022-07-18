@@ -1,0 +1,9 @@
+c:\users\harun\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\harun\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\harun\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\harun\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\harun\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\harun\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\harun\Documents\Visual Studio 2013\Projects\klavyeden 3 bas sayıların basamaklarını yazdıran prgoram\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\harun\Documents\Visual Studio 2013\Projects\klavyeden 3 bas sayıların basamaklarını yazdıran prgoram\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\harun\Documents\Visual Studio 2013\Projects\klavyeden 3 bas sayıların basamaklarını yazdıran prgoram\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
